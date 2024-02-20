@@ -49,4 +49,3 @@ if (isset($_REQUEST['cod']) && is_numeric($_REQUEST['cod'])) {
     echo "Código de signo zodiacal no proporcionado o no válido.";
 }
 ?>
-
